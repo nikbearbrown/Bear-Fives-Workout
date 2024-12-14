@@ -1,73 +1,83 @@
-# Bear Fives Workout
+# **Bear Fives Workout**
 
-Everything is 5 sets of 5 or 5 sets of 55
+Everything is **5 sets of 5** or **5 sets of 55** depending on the intensity (hard or easy workout).
 
-# Diet:
+---
 
-Avoid processed foods
-Avoid refined sugar
-Drink water
+## **Diet**
+- Avoid processed foods.  
+- Avoid refined sugar.  
+- Drink plenty of water.
 
-### **Warm-Up**
-- **Arm Swings**: 3 sets of 15–20 reps  
+---
+
+## **Warm-Up**
+- **Arm Swings**: 5 sets of 55  
   (Dynamic arm swings forward and backward in large, controlled motions.)  
-- **Jump Rope**: 2–3 minutes of continuous jumping to elevate heart rate.
+- **Jump Rope**: 5 sets of 55 seconds.  
+  (Great for elevating heart rate and warming up the whole body.)  
 
 ---
 
-### **Upper Body**
-1. **Pike Push-Ups**: 3 sets of 8–12 reps  
+## **Upper Body**
+1. **Pike Push-Ups**: 5 sets of 5  
    (Targets shoulders and traps.)  
-2. **Push-Ups**: 3 sets of 8–12 reps  
+2. **Push-Ups**: 5 sets of 5  
    (Standard, incline, or decline for progression.)  
-3. **Side Plank Rotations**: 3 sets of 8–12 reps per side  
+3. **Side Plank Rotations**: 5 sets of 5 per side  
    (Strengthens obliques and back.)  
-4. **Arm Circles**: 3 sets of 12–15 reps  
+4. **Arm Circles**: 5 sets of 55 seconds  
    (Extend arms to the side and make small circles to target deltoids.)  
-5. **Incline Push-Ups**: 3 sets of 8–12 reps  
-   (Elevate hands on a surface to mimic the incline.)  
-6. **Tricep Dips**: 3 sets of 8–12 reps  
-   (Use parallel bars or a sturdy surface like a chair or bench.)  
-7. **Chin-Ups or Pull-Ups**: 3 sets of 8–12 reps  
-   (Focus on biceps by using a supinated grip.)  
-8. **Tabletop Curls**: 3 sets of 8–12 reps  
-   (Sit on the ground, knees bent, push up into a tabletop position, and curl arms toward shoulders.)
+5. **Incline Push-Ups**: 5 sets of 5  
+   (Elevate hands on a surface for added incline.)  
+6. **Tricep Dips**: 5 sets of 5  
+   (Use parallel bars or a sturdy surface.)  
+7. **Pull-Ups**: 5 sets of 5  
+   (Use a supinated or pronated grip for variation.)  
+8. **Hanging Leg Raises**: 5 sets of 5  
+   (Engage core and grip strength.)  
+9. **Tabletop Curls**: 5 sets of 5  
+   (Sit on the ground, push up into a tabletop position, and curl arms.)
 
 ---
 
-### **Lower Body**
-9. **Bodyweight Squats**: 3 sets of 8–12 reps  
-   (Focus on depth and control.)  
-10. **Front Squats** (with weight): 3 sets of 8–12 reps  
-    (Hold weight at chest level while squatting, engaging core and quads.)  
-11. **Overhead Squats** (with weight): 3 sets of 8–12 reps  
-    (Hold weight overhead, maintaining posture and mobility.)  
-12. **Clean and Jerk** (with weight): 3 sets of 8–12 reps  
-    (Lift weight from a squat position to an overhead press in an explosive movement.)  
-13. **Deadlifts** (with weight): 2 sets of 8–12 reps  
-    (Hinge at the hips, keeping back straight and engaging glutes and hamstrings.)  
-14. **Hindu Push-Ups**: 3 sets of 8–12 reps  
-    (Targets chest, shoulders, and back while adding flexibility.)  
-15. **Breathing Squats**: 1 set of 20 reps  
+## **Lower Body**
+10. **Bodyweight Squats**: 5 sets of 5  
+    (Focus on depth and control.)  
+11. **Front Squats** (with weight): 5 sets of 5  
+    (Hold weight at chest level while squatting.)  
+12. **Overhead Squats** (with weight): 5 sets of 5  
+    (Hold weight overhead while maintaining posture.)  
+13. **Clean and Jerk** (with weight): 5 sets of 5  
+    (Explosively lift weight from a squat to an overhead press.)  
+14. **Deadlifts** (with weight): 5 sets of 5  
+    (Hinge at the hips, engaging glutes and hamstrings.)  
+15. **Breathing Squats**: 5 sets of 55  
     (Breathe deeply at the top of each squat.)  
-16. **Reverse Plank Bridge**: 1 set of 20 reps  
-    (Hold a reverse plank position, engaging your back and shoulders.)  
-17. **Glute Bridges**: 2 sets of 8–12 reps  
+16. **Reverse Plank Bridge**: 5 sets of 55 seconds  
+    (Hold a reverse plank position for stability and core strength.)  
+17. **Glute Bridges**: 5 sets of 5  
     (Squeeze glutes at the top for maximum activation.)  
-18. **Single-Leg Romanian Deadlifts**: 2 sets of 8–12 reps per leg  
-    (Control the movement for stability and hamstring activation.)
+18. **Single-Leg Romanian Deadlifts**: 5 sets of 5 per leg  
+    (Focus on stability and hamstrings.)
 
 ---
 
-### **Neck and Core**
-19. **Neck Tucks**: 1–2 sets of 15 reps per side  
-    (Lie on your back and slowly tuck your chin.)
+## **Hanging and Swinging Bar Exercises**
+19. **Toes to Bar**: 5 sets of 5  
+    (Engage your core to lift your toes to the bar.)  
+20. **Hanging Side-to-Side Swings**: 5 sets of 5 per side  
+    (Swing side to side to strengthen grip and lats.)  
+21. **Hanging Knee Tucks**: 5 sets of 5  
+    (Tuck knees towards your chest for core activation.)  
 
 ---
 
-### **Cardio**
-- **Jump Rope**: 2–3 minutes after every 2–3 exercises to keep heart rate elevated and build endurance.  
-- **Power Walking**: Incorporate both regular power walking and **pool power walking** for resistance.  
-  - Adjust speed, distance, length of stride, rhythmic breathing, degree of incline, and carried weight for variety and challenge.  
-  - Aim for 20–30 minutes, 4 days a week.
+## **Cardio**
+- **Power Walking**: 5 sets of 55 minutes (split into intervals if needed).  
+  (Adjust speed, distance, and incline for intensity.)  
+- **Pool Power Walking**: 5 sets of 55 meters or 5 sets of 55 seconds.  
+  (Walking in waist-deep water for resistance and low impact.)  
+- **Jump Rope**: 5 sets of 55 seconds.  
+  (Great for conditioning and cardio.)  
 
